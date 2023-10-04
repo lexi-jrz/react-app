@@ -9,6 +9,7 @@
     padding: 0 20px;
     overflow: hidden;
     background: linear-gradient(90deg, #35048e 25%, #ad30db 100%);
+    z-index: 20;
 }
 
 .navbar--title {

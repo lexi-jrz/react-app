@@ -33,7 +33,10 @@ const Astros = () => {
     console.log(astros);
     return (
         <>
-            <h2>Astros</h2>
+            
+            <div className="astro-title-container">
+                <h2>Astros</h2>
+            </div>
             {
                 astros.length !== 0 
                     ? 
